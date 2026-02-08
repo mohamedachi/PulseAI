@@ -24,12 +24,6 @@ PulseAI is a premium, AI-driven fitness and wellness companion built with **Swif
 - **Health Data**: HealthKit SDK
 - **Design System**: Custom Glassmorphism Theme
 
-## 📸 Screenshots
-
-| Splash Screen | Dashboard | AI Planner |
-| :---: | :---: | :---: |
-| ![Splash](https://raw.githubusercontent.com/your-username/PulseAI/main/screenshots/splash.png) | ![Dashboard](https://raw.githubusercontent.com/your-username/PulseAI/main/screenshots/dashboard.png) | ![Planner](https://raw.githubusercontent.com/your-username/PulseAI/main/screenshots/planner.png) |
-
 ## 🚀 Getting Started
 
 ### Prerequisites
