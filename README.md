@@ -2,8 +2,6 @@
 
 PulseAI is a premium, AI-driven fitness and wellness companion built with **SwiftUI**. It combines modern design aesthetics with intelligent planning to help users reach their health goals through a personalized, high-end mobile experience.
 
-![PulseAI Banner](https://raw.githubusercontent.com/your-username/PulseAI/main/screenshots/banner.png)
-
 ## ✨ Key Features
 
 - 🤖 **AI Workout Planner**: Generates personalized 7-day training cycles tailored to your goals (Bulking, Cutting, or Maintenance) and physical metrics (BMI).
